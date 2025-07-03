@@ -1,3 +1,8 @@
+# LAST UPDATED
+## [0.0.2] - 2025-07-03
+Added translation for Omegamon merciful mode patch
+fixes some issues with various items
+
 # 🌐 Digimon Super Rumble – Parche de Traducción (Proyecto Fan)
 
 Este proyecto fue creado por un fan apasionado de **Digimon** con el objetivo de facilitar la comprensión del juego **Digimon Super Rumble** mediante traducciones no oficiales al **inglés** y **español latinoamericano**.  

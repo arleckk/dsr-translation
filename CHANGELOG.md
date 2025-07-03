@@ -1,3 +1,7 @@
+## [0.0.2] - 2025-07-03
+Added translation for Omegamon merciful mode patch
+fixes some issues with various items
+
 ## [0.0.1] - 2025-06-30
 
 ### Added

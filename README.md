@@ -1,7 +1,8 @@
 # LAST UPDATED
-## [0.0.2] - 2025-07-03
-Added translation for Omegamon merciful mode patch
-fixes some issues with various items
+## [0.0.3] - 2025-07-17
+Added patch 2.71
+Fixed UI issues
+Fixed Weird Digimon name
 
 # 🌐 Digimon Super Rumble – Parche de Traducción (Proyecto Fan)
 

@@ -1,6 +1,76 @@
 # LAST UPDATED
-# [0.0.4] 2025-07-18
-Added mini-patch that MG added after patch 2.71
+## [0.0.4] 2025-07-18
+* Added mini-patch that MG added after patch 2.71
+* Fixed some issues with EN/ES patch
+
+## Please choose your language // Por favor, elige tu idioma // Por favor, escolha seu idioma
+
+
+<details>
+	<summary>
+		English
+	</summary>
+
+# 🌐 Digimon Super Rumble – Fan Translation Patch 
+
+This is a non-official translation patch for **Digimon Super Rumble**, created by a long-time fan of the franchise with no commercial intent. It allows you to experience the game in **English** or **Latin American Spanish**, using translated `.dsv` files.
+
+> 🎥 Made with love by [@arleckk_gg](https://www.youtube.com/@arleckk_gg) — Subscribe for more Digimon content!  
+---
+
+## 📦 What's included? / ¿Qué incluye?
+
+This repository contains the translated files:
+
+- `ko/` – Original Korean 🇰🇷
+- `en/` – English Translation 🇺🇸
+- `es/` – Latin American Spanish Translation 🇲🇽
+
+---
+
+## 🛠 How to use / ¿Cómo usarlo?
+
+1. **Download** this repository as a `.zip` or clone it.
+2. Navigate to the folder of the language you want to use: `ko/`, `en/`, or `es/`.
+3. **Copy** the contents of the selected folder and **replace** the files in the game’s installation path:
+
+**C:\Program Files (x86)\Movegames\Digimon SuperRumble\Client\Content\String**
+
+4. Accept the file replacement prompt if Windows asks.
+5. Launch the game. You should now see the text in your selected language.
+
+---
+
+## ⚠️ Legal Notice / Aviso Legal
+
+- This is a **fan-made** project with **no affiliation** to MoveGames, Bandai, or any official entity.
+- All Digimon-related content is the property of its respective owners.
+- No part of the original game is distributed or modified beyond translation files.
+- This project is for **educational and accessibility purposes** only.
+
+## ⚠️ IMPORTANT: 
+This patch modifies game files. As with any mod or unofficial edit, this may violate the game's Terms of Service. Use it at your own risk.
+The author of this project is not responsible if the game company decides to restrict or ban accounts for using modified files.
+
+---
+
+## 🙌 Support & Acknowledgments / Apoyo y Agradecimientos
+
+If this helped you, consider supporting the creator by subscribing to:
+
+🎥 [@arleckk_gg on YouTube](https://www.youtube.com/@arleckk_gg)  
+🟣 [Twitch](https://twitch.tv/arleckk_gg/)
+
+**See you in the Digital World!**  
+
+---
+
+</details>
+
+<details>
+	<summary>
+		Español
+	</summary>
 
 # 🌐 Digimon Super Rumble – Parche de Traducción (Proyecto Fan)
 
@@ -57,63 +127,14 @@ Gracias por apoyar este proyecto fan. Si te fue útil, considera suscribirte a m
 ¡Nos vemos en el Mundo Digital!
 
 ---
+</details>
 
+<details>
+	<summary>
+		Português
+	</summary>
 
-# 🌐 Digimon Super Rumble – Fan Translation Patch 
-
-This is a non-official translation patch for **Digimon Super Rumble**, created by a long-time fan of the franchise with no commercial intent. It allows you to experience the game in **English** or **Latin American Spanish**, using translated `.dsv` files.
-
-> 🎥 Made with love by [@arleckk_gg](https://www.youtube.com/@arleckk_gg) — Subscribe for more Digimon content!  
----
-
-## 📦 What's included? / ¿Qué incluye?
-
-This repository contains the translated files:
-
-- `ko/` – Original Korean 🇰🇷
-- `en/` – English Translation 🇺🇸
-- `es/` – Latin American Spanish Translation 🇲🇽
-
----
-
-## 🛠 How to use / ¿Cómo usarlo?
-
-1. **Download** this repository as a `.zip` or clone it.
-2. Navigate to the folder of the language you want to use: `ko/`, `en/`, or `es/`.
-3. **Copy** the contents of the selected folder and **replace** the files in the game’s installation path:
-
-**C:\Program Files (x86)\Movegames\Digimon SuperRumble\Client\Content\String**
-
-4. Accept the file replacement prompt if Windows asks.
-5. Launch the game. You should now see the text in your selected language.
-
----
-
-## ⚠️ Legal Notice / Aviso Legal
-
-- This is a **fan-made** project with **no affiliation** to MoveGames, Bandai, or any official entity.
-- All Digimon-related content is the property of its respective owners.
-- No part of the original game is distributed or modified beyond translation files.
-- This project is for **educational and accessibility purposes** only.
-
-## ⚠️ IMPORTANT: 
-This patch modifies game files. As with any mod or unofficial edit, this may violate the game's Terms of Service. Use it at your own risk.
-The author of this project is not responsible if the game company decides to restrict or ban accounts for using modified files.
-
----
-
-## 🙌 Support & Acknowledgments / Apoyo y Agradecimientos
-
-If this helped you, consider supporting the creator by subscribing to:
-
-🎥 [@arleckk_gg on YouTube](https://www.youtube.com/@arleckk_gg)  
-🟣 [Twitch](https://twitch.tv/arleckk_gg/)
-
-**See you in the Digital World!**  
-
----
-
-## 🌐 Digimon Super Rumble – Patch de Tradução (Projeto de Fã)
+# 🌐 Digimon Super Rumble – Patch de Tradução (Projeto de Fã)
 
 Este projeto foi criado por um fã apaixonado por Digimon com o objetivo de facilitar a compreensão do jogo **Digimon Super Rumble** por meio de traduções não oficiais para **inglês**, **espanhol latino-americano** e **português brasileiro**.  
 Não possui fins lucrativos e é totalmente gratuito.
@@ -172,3 +193,11 @@ Obrigado por apoiar este projeto de fã. Se ele foi útil para você, considere 
 
 Nos vemos no Mundo Digital!
 
+</details>
+
+
+Discord: [Digimon Super Rumble Latam ](https://discord.gg/Qp5KGt7FQn)  
+How to: [Report issues with translation patch ](https://discord.com/channels/1391844208272474133/1392656861626368210)
+
+🎥 [@arleckk_gg on YouTube](https://www.youtube.com/@arleckk_gg)  
+🟣 [arleckk_gg on Twitch](https://twitch.tv/arleckk_gg/)
